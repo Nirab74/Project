@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814975962684",
+    "project_id": "quizc-40222",
+    "storage_bucket": "quizc-40222.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814975962684:android:cd4c324937e2f00fc2bd39",
+        "android_client_info": {
+          "package_name": "com.example.quizcrafter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2x3yqRpxcWcr05vaIV4sIHqeQdEm-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
