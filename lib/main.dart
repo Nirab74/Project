@@ -1,7 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:quizcrafter/Admin/add_quiz.dart';
 import 'package:quizcrafter/Admin/admin_login.dart';
+import 'package:quizcrafter/login_page.dart';
 import 'package:quizcrafter/pages/home.dart';
 import 'package:quizcrafter/pages/question.dart';
 
@@ -24,7 +26,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // You can switch between pages here (AdminLogin, Home, etc.)
-      home: Home(), // Change this if you want a different starting screen
+      home: LoginPage(), // Change this if you want a different starting screen
     );
   }
 }
